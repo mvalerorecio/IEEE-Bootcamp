@@ -17,7 +17,7 @@ Apply 16 input combinations (0000 to 1111) and verify that only one wordline and
 
 ## External hardware
 
-- 4 push buttons or switches or the input bits.
-- 8 LEDs to monutor the wordline and bitline outputs.
-- Current-limiting resistors for the LEDs.
-- DC power supply.
+4 push buttons or switches or the input bits.
+8 LEDs to monutor the wordline and bitline outputs.
+Current-limiting resistors for the LEDs.
+DC power supply.
